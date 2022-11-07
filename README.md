@@ -13,6 +13,6 @@
 ### Pinned 
 
 <div align="center">
-    <a href="#"><img alt="pinned-walrus" src="https://github-readme-stats.vercel.app/api/pin/?username=TeamWalrus&repo=Walrus&theme=radical" height="125px"/></a>
-    <a href="#"><img alt="pinned-phishsticks" src="https://github-readme-stats.vercel.app/api/pin/?username=dunderhay&repo=Phishsticks&theme=radical" height="125px"/></a>
+    <a href="#"><img alt="pinned-walrus" src="https://github-readme-stats.vercel.app/api/pin/?username=TeamWalrus&repo=Walrus&theme=radical" height="135px"/></a>
+    <a href="#"><img alt="pinned-phishsticks" src="https://github-readme-stats.vercel.app/api/pin/?username=dunderhay&repo=Phishsticks&theme=radical" height="135px"/></a>
 </div>
