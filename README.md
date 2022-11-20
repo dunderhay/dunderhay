@@ -1,9 +1,9 @@
 <div align="center">
   Hello 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving Gif"/>
+  <img src="https://raw.githubusercontent.com/dunderhay/dunderhay/master/wave.gif" width="30px" alt="Waving Gif"/>
   </br>
   </br>
-  <img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" height="240px" alt="Banner Gif"/>
+  <img src="https://raw.githubusercontent.com/dunderhay/dunderhay/master/banner.gif" height="240px" alt="Banner Gif"/>
   </br>
   </br>
   <a href="https://au.linkedin.com/in/daniel-underhay">
