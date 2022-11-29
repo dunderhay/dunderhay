@@ -16,13 +16,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   </br>
-  </br>
-  <a href="#">
-    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=dunderhay&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="175px"/>
-  </a>
-  <a href="#">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunderhay&langs_count=10&layout=compact&theme=radical&hide_border=true&hide=powershell" height="175px"/>
-  </a>
 </div>
 
 
